@@ -1,0 +1,8 @@
+{
+  "name": "AirBot",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "6e3aedef"
+}
